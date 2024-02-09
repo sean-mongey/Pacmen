@@ -1,5 +1,5 @@
 <!-----Summary-------->
-This pacman factory can create multiple pacmen at the click of a button, and another button to sends them bouncing around the screen.
+This pacman factory can create multiple pacmen and send them bouncing around the screen.
 <!-----How to use-------->
 Click the "Pacman Factory" button to make a Pacman. Continue clicking this button to create an army of Pacmen
 Click the "Start Game" button to start the Pacmen bouncing around the screen.
